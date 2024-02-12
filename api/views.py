@@ -1,11 +1,9 @@
-from django.shortcuts import render
 #from rest_framework import serializers
 from rest_framework.decorators import api_view
 from rest_framework.response import Response
 #from .serializers import *
 import requests
 import os
-import matplotlib.pyplot as plt
 from PIL import Image
 import io
 # Create your views here.
