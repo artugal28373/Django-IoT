@@ -1,8 +1,5 @@
-Django==4.1.7
-django-shortcuts==1.6
+Django==5.0.2
 djangorestframework==3.14.0
-opencv-python==4.8.0.74
-Pillow==10.0.0
-requests==2.28.2
-urllib3==1.26.15
+pillow==10.2.0
+requests==2.31.0
 
